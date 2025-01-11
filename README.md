@@ -1,8 +1,5 @@
 # Depression-Checker
-Here’s a README.md template you can use for your GitHub repository:
 
-markdown
-Copy code
 # Mental Health Assessment Tool
 
 ## Overview
@@ -108,4 +105,3 @@ Copy code
 8. **Contributing**: Information on how others can contribute.
 9. **License**: A placeholder for your project license (you can choose the appropriate one, like MIT or GPL).
 
-This will make your GitHub repository easier to understand and use!
